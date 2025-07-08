@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hI7jYsnPkd0=",
+  "success": true,
+  "projectFilePath": "D:\\web-projects\\UserManager\\um\\um.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fady\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\fady\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
